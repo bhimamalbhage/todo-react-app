@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bhimamalbhage/todo-react-app.git/static/css/main.cceb00d9.chunk.css",
+    "main.js": "/bhimamalbhage/todo-react-app.git/static/js/main.f005898f.chunk.js",
+    "main.js.map": "/bhimamalbhage/todo-react-app.git/static/js/main.f005898f.chunk.js.map",
+    "runtime-main.js": "/bhimamalbhage/todo-react-app.git/static/js/runtime-main.baed1ee6.js",
+    "runtime-main.js.map": "/bhimamalbhage/todo-react-app.git/static/js/runtime-main.baed1ee6.js.map",
+    "static/js/2.6e1b2e35.chunk.js": "/bhimamalbhage/todo-react-app.git/static/js/2.6e1b2e35.chunk.js",
+    "static/js/2.6e1b2e35.chunk.js.map": "/bhimamalbhage/todo-react-app.git/static/js/2.6e1b2e35.chunk.js.map",
+    "index.html": "/bhimamalbhage/todo-react-app.git/index.html",
+    "precache-manifest.15a8066cf700810e544713a2b722a90e.js": "/bhimamalbhage/todo-react-app.git/precache-manifest.15a8066cf700810e544713a2b722a90e.js",
+    "service-worker.js": "/bhimamalbhage/todo-react-app.git/service-worker.js",
+    "static/css/main.cceb00d9.chunk.css.map": "/bhimamalbhage/todo-react-app.git/static/css/main.cceb00d9.chunk.css.map",
+    "static/js/2.6e1b2e35.chunk.js.LICENSE.txt": "/bhimamalbhage/todo-react-app.git/static/js/2.6e1b2e35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baed1ee6.js",
+    "static/js/2.6e1b2e35.chunk.js",
+    "static/css/main.cceb00d9.chunk.css",
+    "static/js/main.f005898f.chunk.js"
+  ]
+}
