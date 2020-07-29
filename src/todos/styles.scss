@@ -1,0 +1,49 @@
+body {
+	font-family: Arial, Helvetica,
+		sans-serif;
+}
+
+.todoswrapper {
+	margin: auto;
+	padding: 10px;
+	width: 50%;
+	height: 100%;
+	background-color: #ddd;
+	.title {
+		margin: 10px 0px;
+	}
+	.addTodoInput {
+		box-sizing: border-box;
+		outline: 0;
+		width: 100%;
+		padding: 10px;
+		background-color: inherit;
+		border-width: 0px;
+		border-bottom: 2px solid black;
+		transition: 0.3s all;
+		&:focus {
+			background-color: rgba($color: #ffffff, $alpha: 0.9);
+		}
+	}
+	.todolist {
+		margin-top: 10px;
+		.item {
+			padding: 10px 7px;
+			cursor: pointer;
+			&:hover {
+				background-color: rgba($color: #ffffff, $alpha: 0.9);
+			}
+			&.COMPLETE {
+				opacity: 0.5;
+			}
+		}
+	}
+	.filters {
+		margin-top: 10px;
+		display: flex;
+		button {
+			padding: 7px;
+			flex: 1 1 0;
+		}
+	}
+}
